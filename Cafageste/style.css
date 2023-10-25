@@ -1,0 +1,20 @@
+*{
+box-sizing: border-box;
+padding: auto;
+margin: auto;
+}
+
+body{
+font-family: sans-serif;
+font-size: 16px;
+}
+
+nav{
+background: #222;
+padding: 0 15px;
+}
+
+a{
+color: white;
+text-decoration: none;
+}
